@@ -38,6 +38,14 @@
   - desenvolvimento da página **Teachers List**
     <br>
 
+- `Aula 02 - 04/08`
+
+  - bate-papo sobre arquiteturas de projetos
+  - desenvolvimento do backend do projeto
+  - configuração dos arquivos do banco de dados
+  - configuração das rotas necessárias
+    <br>
+
 ##### FEATURES - EXTRAS
 
 ---

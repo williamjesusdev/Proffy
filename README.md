@@ -10,8 +10,8 @@
   <a aria-label="Versão do React" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16131-march-19-2020">
     <img src="https://img.shields.io/badge/react-16.13.1-informational?logo=react"></img>
   </a>
-  <a aria-label="Dia 1 de 5" href="https://nextlevelweek.com/episodios/omnistack/1/edicao/2">
-    <img src="https://img.shields.io/badge/Dia-1-green"></img>
+  <a aria-label="Dia 3 de 5" href="https://nextlevelweek.com/episodios/omnistack/3/edicao/2">
+    <img src="https://img.shields.io/badge/Dia-3-green"></img>
   </a>
 </p>
 
@@ -44,6 +44,14 @@
   - desenvolvimento do backend do projeto
   - configuração dos arquivos do banco de dados
   - configuração das rotas necessárias
+    <br>
+
+- `Aula 03 - 05/08`
+
+  - continuação do desenvolvimento do frontend
+  - comunicação com o backend do projeto **axios**
+  - testes de conexão e funcionamento
+  - criação do link whatsapp 
     <br>
 
 ##### FEATURES - EXTRAS
